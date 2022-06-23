@@ -1,0 +1,2 @@
+#chmod ug=-r-w-x
+chmod o=+r\n
