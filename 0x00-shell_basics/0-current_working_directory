@@ -1,2 +1,2 @@
-#!/bing/bash
-pwd
+#!/bin/bash
+pwd\n
