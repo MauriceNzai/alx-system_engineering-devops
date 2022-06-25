@@ -1,0 +1,3 @@
+#!/bin/bash
+chown -hRselect 
+ vincen:staff ./\n
